@@ -20,7 +20,7 @@ const App = () => {
     },
     {
       title: "Vite",
-      url: "https://redux.js.org/",
+      url: "https://vitejs.dev/",
       author: "Dan Abramov",
       num_comments: 3,
       points: 4,
@@ -28,7 +28,7 @@ const App = () => {
     },
     {
       title: "Svelte",
-      url: "https://redux.js.org/",
+      url: "https://svelte.dev/",
       author: "Swelte Developer",
       num_comments: 4,
       points: 5,
@@ -36,11 +36,19 @@ const App = () => {
     },
     {
       title: "Ember",
-      url: "https://redux.js.org/",
+      url: "https://emberjs.com/",
       author: "Ember Developer",
       num_comments: 2,
       points: 5,
       objectID: 4,
+    },
+    {
+      title: "Next",
+      url: "https://nextjs.org/",
+      author: "Jordan Walke",
+      num_comments: 3,
+      points: 4,
+      objectID: 0,
     },
   ];
 
